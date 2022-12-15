@@ -1,0 +1,3 @@
+﻿  randomwalk1.cpp
+C:\project\Random walk 1\Random walk 1\randomwalk1.cpp(41,10): warning C4101: 'filename' :참조되지 않은 지역 변수입니다.
+  Random walk 1.vcxproj -> C:\project\Random walk 1\x64\Debug\Random walk 1.exe
